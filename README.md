@@ -1,6 +1,6 @@
 # Full Stack FastAPI Template
 
-<a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3ATest" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test/badge.svg" alt="Test"></a>
+<a href="https://github.com/Rocco0619/full-stack-fastapi-template/actions?query=workflow%3ATest" target="_blank"><img src="https://github.com/Rocco0619/full-stack-fastapi-template/workflows/Test/badge.svg" alt="Test"></a>
 <a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/full-stack-fastapi-template" target="_blank"><img src="https://coverage-badge.samuelcolvin.workers.dev/fastapi/full-stack-fastapi-template.svg" alt="Coverage"></a>
 
 ## Technology Stack and Features
@@ -86,7 +86,7 @@ git remote set-url origin git@github.com:octocat/my-full-stack.git
 - Add this repo as another "remote" to allow you to get updates later:
 
 ```bash
-git remote add upstream git@github.com:fastapi/full-stack-fastapi-template.git
+git remote add upstream git@github.com:Rocco0619/full-stack-fastapi-template.git
 ```
 
 - Push the code to your new repository:
